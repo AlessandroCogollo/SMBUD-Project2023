@@ -1,0 +1,375 @@
+{
+  "mappings": {
+    "_meta": {
+      "created_by": "file-data-visualizer"
+    },
+    "properties": {
+      "age": {
+        "type": "integer"
+      },
+      "age_o": {
+        "type": "integer"
+      },
+      "ambition": {
+        "type": "integer"
+      },
+      "ambition_partner": {
+        "type": "integer"
+      },
+      "ambitous_o": {
+        "type": "integer"
+      },
+      "ambtition_important": {
+        "type": "integer"
+      },
+      "art": {
+        "type": "integer"
+      },
+      "attractive": {
+        "type": "integer"
+      },
+      "attractive_important": {
+        "type": "integer"
+      },
+      "attractive_o": {
+        "type": "integer"
+      },
+      "attractive_partner": {
+        "type": "integer"
+      },
+      "clubbing": {
+        "type": "integer"
+      },
+      "concerts": {
+        "type": "integer"
+      },
+      "d_age": {
+        "type": "integer"
+      },
+      "d_ambition": {
+        "type": "keyword"
+      },
+      "d_ambition_partner": {
+        "type": "keyword"
+      },
+      "d_ambitous_o": {
+        "type": "keyword"
+      },
+      "d_ambtition_important": {
+        "type": "keyword"
+      },
+      "d_art": {
+        "type": "keyword"
+      },
+      "d_attractive": {
+        "type": "keyword"
+      },
+      "d_attractive_important": {
+        "type": "keyword"
+      },
+      "d_attractive_o": {
+        "type": "keyword"
+      },
+      "d_attractive_partner": {
+        "type": "keyword"
+      },
+      "d_clubbing": {
+        "type": "keyword"
+      },
+      "d_concerts": {
+        "type": "keyword"
+      },
+      "d_d_age": {
+        "type": "keyword"
+      },
+      "d_dining": {
+        "type": "keyword"
+      },
+      "d_exercise": {
+        "type": "keyword"
+      },
+      "d_expected_happy_with_sd_people": {
+        "type": "keyword"
+      },
+      "d_expected_num_interested_in_me": {
+        "type": "keyword"
+      },
+      "d_expected_num_matches": {
+        "type": "keyword"
+      },
+      "d_funny": {
+        "type": "keyword"
+      },
+      "d_funny_important": {
+        "type": "keyword"
+      },
+      "d_funny_o": {
+        "type": "keyword"
+      },
+      "d_funny_partner": {
+        "type": "keyword"
+      },
+      "d_gaming": {
+        "type": "keyword"
+      },
+      "d_guess_prob_liked": {
+        "type": "keyword"
+      },
+      "d_hiking": {
+        "type": "keyword"
+      },
+      "d_importance_same_race": {
+        "type": "keyword"
+      },
+      "d_importance_same_religion": {
+        "type": "keyword"
+      },
+      "d_intellicence_important": {
+        "type": "keyword"
+      },
+      "d_intelligence": {
+        "type": "keyword"
+      },
+      "d_intelligence_o": {
+        "type": "keyword"
+      },
+      "d_intelligence_partner": {
+        "type": "keyword"
+      },
+      "d_interests_correlate": {
+        "type": "keyword"
+      },
+      "d_like": {
+        "type": "keyword"
+      },
+      "d_movies": {
+        "type": "keyword"
+      },
+      "d_museums": {
+        "type": "keyword"
+      },
+      "d_music": {
+        "type": "keyword"
+      },
+      "d_pref_o_ambitious": {
+        "type": "keyword"
+      },
+      "d_pref_o_attractive": {
+        "type": "keyword"
+      },
+      "d_pref_o_funny": {
+        "type": "keyword"
+      },
+      "d_pref_o_intelligence": {
+        "type": "keyword"
+      },
+      "d_pref_o_shared_interests": {
+        "type": "keyword"
+      },
+      "d_pref_o_sincere": {
+        "type": "keyword"
+      },
+      "d_reading": {
+        "type": "keyword"
+      },
+      "d_shared_interests_important": {
+        "type": "keyword"
+      },
+      "d_shared_interests_o": {
+        "type": "keyword"
+      },
+      "d_shared_interests_partner": {
+        "type": "keyword"
+      },
+      "d_shopping": {
+        "type": "keyword"
+      },
+      "d_sincere": {
+        "type": "keyword"
+      },
+      "d_sincere_important": {
+        "type": "keyword"
+      },
+      "d_sincere_partner": {
+        "type": "keyword"
+      },
+      "d_sinsere_o": {
+        "type": "keyword"
+      },
+      "d_sports": {
+        "type": "keyword"
+      },
+      "d_theater": {
+        "type": "keyword"
+      },
+      "d_tv": {
+        "type": "keyword"
+      },
+      "d_tvsports": {
+        "type": "keyword"
+      },
+      "d_yoga": {
+        "type": "keyword"
+      },
+      "decision": {
+        "type": "integer"
+      },
+      "decision_o": {
+        "type": "integer"
+      },
+      "dining": {
+        "type": "integer"
+      },
+      "exercise": {
+        "type": "integer"
+      },
+      "expected_happy_with_sd_people": {
+        "type": "integer"
+      },
+      "expected_num_interested_in_me": {
+        "type": "integer"
+      },
+      "expected_num_matches": {
+        "type": "integer"
+      },
+      "field": {
+        "type": "text"
+      },
+      "funny": {
+        "type": "integer"
+      },
+      "funny_important": {
+        "type": "integer"
+      },
+      "funny_o": {
+        "type": "integer"
+      },
+      "funny_partner": {
+        "type": "integer"
+      },
+      "gaming": {
+        "type": "integer"
+      },
+      "gender": {
+        "type": "keyword"
+      },
+      "guess_prob_liked": {
+        "type": "integer"
+      },
+      "hiking": {
+        "type": "integer"
+      },
+      "importance_same_race": {
+        "type": "integer"
+      },
+      "importance_same_religion": {
+        "type": "integer"
+      },
+      "intellicence_important": {
+        "type": "integer"
+      },
+      "intelligence": {
+        "type": "integer"
+      },
+      "intelligence_o": {
+        "type": "integer"
+      },
+      "intelligence_partner": {
+        "type": "integer"
+      },
+      "interests_correlate": {
+        "type": "double"
+      },
+      "like": {
+        "type": "integer"
+      },
+      "match": {
+        "type": "integer"
+      },
+      "met": {
+        "type": "integer"
+      },
+      "movies": {
+        "type": "integer"
+      },
+      "museums": {
+        "type": "integer"
+      },
+      "music": {
+        "type": "integer"
+      },
+      "pref_o_ambitious": {
+        "type": "double"
+      },
+      "pref_o_attractive": {
+        "type": "double"
+      },
+      "pref_o_funny": {
+        "type": "double"
+      },
+      "pref_o_intelligence": {
+        "type": "double"
+      },
+      "pref_o_shared_interests": {
+        "type": "double"
+      },
+      "pref_o_sincere": {
+        "type": "integer"
+      },
+      "race": {
+        "type": "keyword"
+      },
+      "race_o": {
+        "type": "keyword"
+      },
+      "reading": {
+        "type": "integer"
+      },
+      "samerace": {
+        "type": "integer"
+      },
+      "shared_interests_important": {
+        "type": "integer"
+      },
+      "shared_interests_o": {
+        "type": "integer"
+      },
+      "shared_interests_partner": {
+        "type": "integer"
+      },
+      "shopping": {
+        "type": "integer"
+      },
+      "sincere": {
+        "type": "integer"
+      },
+      "sincere_important": {
+        "type": "integer"
+      },
+      "sincere_partner": {
+        "type": "integer"
+      },
+      "sinsere_o": {
+        "type": "integer"
+      },
+      "sports": {
+        "type": "integer"
+      },
+      "theater": {
+        "type": "integer"
+      },
+      "tv": {
+        "type": "integer"
+      },
+      "tvsports": {
+        "type": "integer"
+      },
+      "wave": {
+        "type": "integer"
+      },
+      "yoga": {
+        "type": "integer"
+      }
+    }
+  }
+}

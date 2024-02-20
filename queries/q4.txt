@@ -1,0 +1,26 @@
+{
+  "took": 0,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 8378,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "male_perception": {
+      "doc_count": 4194,
+      "avg_expected_matches": {
+        "value": 3.3910238429172512
+      }
+    }
+  }
+}

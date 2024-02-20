@@ -1,0 +1,32 @@
+{
+  "took": 0,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 10,
+      "relation": "eq"
+    },
+    "max_score": 0,
+    "hits": [
+      {
+        "_index": "speeddating-v4",
+        "_id": "dlq81IwBkPnrhWx6FobH",
+        "_score": 0,
+        "_source": {
+          "expected_num_matches": 3
+        }
+      }
+    ]
+  },
+  "aggregations": {
+    "count_matches": {
+      "value": 2
+    }
+  }
+}

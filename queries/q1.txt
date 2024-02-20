@@ -1,0 +1,33 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 8378,
+      "relation": "eq"
+    },
+    "max_score": 1,
+    "hits": [
+      {
+        "_index": "speeddating-v4",
+        "_id": "bFq81IwBkPnrhWx6FobH",
+        "_score": 1,
+        "_source": {}
+      }
+    ]
+  },
+  "aggregations": {
+    "more-diff-match": {
+      "doc_count": 1380,
+      "diff_age": {
+        "value": 34
+      }
+    }
+  }
+}

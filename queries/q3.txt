@@ -1,0 +1,134 @@
+{
+  "took": 2,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 8378,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "race-count": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "European/Caucasian-American",
+          "doc_count": 4727,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 3939
+              },
+              {
+                "key": 1,
+                "doc_count": 788
+              }
+            ]
+          }
+        },
+        {
+          "key": "Asian/Pacific Islander/Asian-American",
+          "doc_count": 1982,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 1715
+              },
+              {
+                "key": 1,
+                "doc_count": 267
+              }
+            ]
+          }
+        },
+        {
+          "key": "Latino/Hispanic American",
+          "doc_count": 664,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 541
+              },
+              {
+                "key": 1,
+                "doc_count": 123
+              }
+            ]
+          }
+        },
+        {
+          "key": "Other",
+          "doc_count": 522,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 419
+              },
+              {
+                "key": 1,
+                "doc_count": 103
+              }
+            ]
+          }
+        },
+        {
+          "key": "Black/African American",
+          "doc_count": 420,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 335
+              },
+              {
+                "key": 1,
+                "doc_count": 85
+              }
+            ]
+          }
+        },
+        {
+          "key": "?",
+          "doc_count": 63,
+          "num-matches": {
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0,
+            "buckets": [
+              {
+                "key": 0,
+                "doc_count": 49
+              },
+              {
+                "key": 1,
+                "doc_count": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

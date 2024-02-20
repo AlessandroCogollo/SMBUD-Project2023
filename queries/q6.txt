@@ -1,0 +1,99 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 4194,
+      "relation": "eq"
+    },
+    "max_score": 5.1814966,
+    "hits": [
+      {
+        "_index": "speeddating-v4",
+        "_id": "mFq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "mVq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "mlq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "m1q81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "nFq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "nVq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "nlq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "n1q81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "oFq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      },
+      {
+        "_index": "speeddating-v4",
+        "_id": "oVq81IwBkPnrhWx6I41T",
+        "_score": 5.1814966,
+        "_source": {
+          "field": "Computer Science"
+        }
+      }
+    ]
+  }
+}

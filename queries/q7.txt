@@ -1,0 +1,68 @@
+{
+  "took": 26,
+  "timed_out": false,
+  "_shards": {
+    "total": 1,
+    "successful": 1,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 1380,
+      "relation": "eq"
+    },
+    "max_score": null,
+    "hits": []
+  },
+  "aggregations": {
+    "avg_reading": {
+      "value": 5.631501831501832
+    },
+    "avg_dining": {
+      "value": 7.917948717948718
+    },
+    "avg_theater": {
+      "value": 6.7765567765567765
+    },
+    "avg_art": {
+      "value": 6.875457875457876
+    },
+    "avg_gaming": {
+      "value": 2.8695970695970696
+    },
+    "avg_tv_sports": {
+      "value": 4.547252747252747
+    },
+    "avg_movies": {
+      "value": 7.831501831501831
+    },
+    "avg_sports": {
+      "value": 6.553113553113553
+    },
+    "avg_concerts": {
+      "value": 6.956776556776557
+    },
+    "avg_music": {
+      "value": 5.623443223443223
+    },
+    "avg_clubbing": {
+      "value": 6.058608058608058
+    },
+    "avg_museums": {
+      "value": 7.054945054945055
+    },
+    "avg_exercise": {
+      "value": 6.297435897435897
+    },
+    "avg_yoga": {
+      "value": 4.563369963369963
+    },
+    "avg_tv": {
+      "value": 5.221245421245421
+    },
+    "avg_hiking": {
+      "value": 5.876923076923077
+    }
+  }
+}
